@@ -1,3 +1,3 @@
 # Project
 
-Book Text Genre Classification
+Multi Label Book Genre Text Classification
